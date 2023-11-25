@@ -89,3 +89,25 @@ li {
   justify-content: end;
   gap: 10px;
 }
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+header {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+  font-size: 0.8em;
+}
+
+header a {
+  color: #2b88d8;
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
