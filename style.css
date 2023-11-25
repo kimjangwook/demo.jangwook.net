@@ -47,3 +47,19 @@ a {
   color: #333;
   font-weight: bold;
 }
+
+footer {
+  margin-top: 20px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+  font-size: 0.8em;
+}
+
+footer a {
+  color: #2b88d8;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
